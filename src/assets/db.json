@@ -1,0 +1,108 @@
+{
+  "ürünler": [
+    {
+      "category": "Özel Lezzetler",
+      "Products": [
+        {"isim": "Tavuk Çorbası", "fiyat": 12.99, "açıklama": "Lezzetli tavuk suyu ve yumuşacık tavuk parçaları ile hazırlanmış sıcak çorba."},
+        {"isim": "Permasanlı Patates", "fiyat": 15.99, "açıklama": "Kızartılmış patateslerin üzerinde rendelenmiş parmesan peyniri ile servis edilir."},
+        {"isim": "Falafel", "fiyat": 13.99, "açıklama": "Nohut ve çeşitli baharatlarla yapılan, dışı çıtır içi yumuşak kızartılmış köfteler."},
+        {"isim": "Turşu Tabağı", "fiyat": 9.99, "açıklama": "Çeşitli sebzelerden oluşan, fermente edilmiş turşu tabağı."},
+        {"isim": "Humus", "fiyat": 11.99, "açıklama": "Nohut, tahin, limon suyu ve sarımsak ile yapılan lezzetli Orta Doğu mezesi."},
+        {"isim": "Soğan Halkası", "fiyat": 10.99, "açıklama": "Kızartılmış, çıtır çıtır soğan halkaları."},
+        {"isim": "Tavuklu Pilav", "fiyat": 14.99, "açıklama": "Tavuk parçaları ile lezzetlendirilmiş, özel baharatlı pilav."},
+        {"isim": "Acılı Pilav", "fiyat": 13.99, "açıklama": "Baharatlı ve acı soslarla tatlandırılmış pilav."}
+      ]
+    },
+    {
+      "category": "Salatalar",
+      "Products": [
+        {"isim": "Akdeniz Salatası", "fiyat": 12.99, "açıklama": "Taze sebzeler ve zeytinyağı ile hazırlanan, hafif ve sağlıklı salata."},
+        {"isim": "Tavuklu Salata", "fiyat": 14.99, "açıklama": "Izgara tavuk parçaları ile zenginleştirilmiş, doyurucu salata."},
+        {"isim": "Falafel Salata", "fiyat": 13.99, "açıklama": "Falafel köfteleri ile hazırlanan, besleyici ve doyurucu salata."}
+      ]
+    },
+    {
+      "category": "Dürümler",
+      "Products": [
+        {"isim": "Sezar Dürüm", "fiyat": 12.99, "açıklama": "Sezar sosu, marul ve tavuk parçaları ile yapılan dürüm."},
+        {"isim": "Çıtır Dürüm", "fiyat": 11.99, "açıklama": "Çıtır tavuk parçaları ve taze sebzeler ile hazırlanan dürüm."},
+        {"isim": "Lokum Dürüm", "fiyat": 14.99, "açıklama": "Lokum gibi yumuşak tavuk parçaları ve özel sos ile yapılan dürüm."},
+        {"isim": "Falafel Dürüm", "fiyat": 13.99, "açıklama": "Falafel köfteleri ve taze sebzeler ile hazırlanan dürüm."}
+      ]
+    },
+    {
+      "category": "Burger",
+      "Products": [
+        {"isim": "Çıtır Tavuk Burger", "fiyat": 15.99, "açıklama": "Çıtır tavuk parçaları ile yapılan, doyurucu burger."},
+        {"isim": "Mefa Tavuk Burger", "fiyat": 16.99, "açıklama": "Özel soslu tavuk burger, bol lezzetli."},
+        {"isim": "Falafel Burger", "fiyat": 17.99, "açıklama": "Falafel köftesi ile yapılan, vejetaryen burger."}
+      ]
+    },
+    {
+      "category": "Tavuklu Makarnalar",
+      "Products": [
+        {"isim": "Kremalı Makarna", "fiyat": 11.99, "açıklama": "Kremalı sos ile hazırlanan, lezzetli makarna."},
+        {"isim": "Cheddar Soslu Makarna", "fiyat": 10.99, "açıklama": "Cheddar peyniri sosu ile lezzetlendirilmiş makarna."},
+        {"isim": "Köri Soslu Makarna", "fiyat": 12.99, "açıklama": "Köri sosu ile tatlandırılmış, aromatik makarna."}
+      ]
+    },
+    {
+      "category": "Çevirme Piliçler",
+      "Products": [
+        {"isim": "Klasik Yarım Piliç", "fiyat": 14.99, "açıklama": "Klasik baharatlarla marine edilmiş, fırında kızartılmış yarım piliç."},
+        {"isim": "8 Otlu Yarım Piliç", "fiyat": 15.99, "açıklama": "Sekiz farklı otla marine edilmiş, lezzetli yarım piliç."},
+        {"isim": "Özel Acılı Yarım Piliç", "fiyat": 16.99, "açıklama": "Özel acılı sos ile hazırlanan, fırında kızartılmış yarım piliç."}
+      ]
+    },
+    {
+      "category": "Paneli Çıtırlar",
+      "Products": [
+        {"isim": "Çıtır Kanat", "fiyat": 9.99, "açıklama": "Baharatlı pane ile kaplanmış, çıtır çıtır tavuk kanatları."},
+        {"isim": "Çıtır Nuggets", "fiyat": 8.99, "açıklama": "Küçük, çıtır tavuk parçaları."},
+        {"isim": "Karışık Çıtır", "fiyat": 10.99, "açıklama": "Çeşitli çıtır tavuk parçalarının karışımı."},
+        {"isim": "Çıtır Tenders", "fiyat": 11.99, "açıklama": "Pane kaplı, çıtır tavuk göğsü şeritleri."}
+      ]
+    },
+    {
+      "category": "Soslu Lokumlar",
+      "Products": [
+        {"isim": "Klasik Lokum", "fiyat": 13.99, "açıklama": "Yumuşak tavuk parçaları, klasik baharatlar ile hazırlanmış."},
+        {"isim": "Acılı Lokum", "fiyat": 14.99, "açıklama": "Acılı sosla tatlandırılmış yumuşak tavuk parçaları."},
+        {"isim": "Acılı Mayonezli Lokum", "fiyat": 15.99, "açıklama": "Acılı mayonez sosu ile tatlandırılmış yumuşak tavuk parçaları."}
+      ]
+    },
+    {
+      "category": "Soslar",
+      "Products": [
+        {"isim": "Ketçap", "fiyat": 1.99, "açıklama": "Tatlı ve ekşi domates sosu."},
+        {"isim": "Mayonez", "fiyat": 1.99, "açıklama": "Kremalı ve zengin lezzetli mayonez."},
+        {"isim": "Sarımsaklı Mayonez", "fiyat": 2.49, "açıklama": "Sarımsak aromalı zengin mayonez."},
+        {"isim": "Fry Sos", "fiyat": 2.99, "açıklama": "Patates kızartması için özel sos."}
+      ]
+    },
+    {
+      "category": "Soguk İcecekler",
+      "Products": [
+        {"isim": "Kola", "fiyat": 4.99, "açıklama": "Soğuk, gazlı içecek."},
+        {"isim": "Fanta", "fiyat": 4.99, "açıklama": "Portakal aromalı gazlı içecek."},
+        {"isim": "Sprite", "fiyat": 4.99, "açıklama": "Limon ve lime aromalı gazlı içecek."},
+        {"isim": "Ayran", "fiyat": 3.99, "açıklama": "Ferahlatıcı, tuzlu yoğurt içeceği."},
+        {"isim": "Limonata", "fiyat": 5.99, "açıklama": "Taze limon suyu ile yapılan serinletici içecek."},
+        {"isim": "Şeftali Ice Tea", "fiyat": 5.99, "açıklama": "Soğuk, şeftali aromalı buzlu çay."},
+        {"isim": "Limon Ice Tea", "fiyat": 5.99, "açıklama": "Soğuk, limon aromalı buzlu çay."},
+        {"isim": "Soda", "fiyat": 3.99, "açıklama": "Gazlı ve maden suyu."}
+      ]
+    },
+    {
+      "category": "Taze Meyve Suyu",
+      "Products": [
+        {"isim": "Portakal Suyu", "fiyat": 6.99, "açıklama": "Taze sıkılmış portakal suyu."},
+        {"isim": "Elma Suyu", "fiyat": 6.99, "açıklama": "Taze sıkılmış elma suyu."},
+        {"isim": "Havuç Suyu", "fiyat": 6.99, "açıklama": "Taze sıkılmış havuç suyu."},
+        {"isim": "Nar Suyu", "fiyat": 7.99, "açıklama": "Taze sıkılmış nar suyu."},
+        {"isim": "Kivi Suyu", "fiyat": 7.99, "açıklama": "Taze sıkılmış kivi suyu."},
+        {"isim": "Mango Suyu", "fiyat": 7.99, "açıklama": "Taze sıkılmış mango suyu."}
+      ]
+    }
+  ]
+}
